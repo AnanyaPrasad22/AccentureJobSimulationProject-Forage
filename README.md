@@ -1,0 +1,1 @@
+A case study analytics project about a hypothetical social media company addressing three problems and how to tackle them by drawing insights and conclusions from raw user data to cater to a growing user base.
